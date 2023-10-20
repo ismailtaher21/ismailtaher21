@@ -1,9 +1,9 @@
-![logo]()
+![logo](https://github.com/ismailtaher21/ismailtaher21/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ismail Mohammed Taher</h1>
 <h3 align="center">A Software Developer From London....(MERN DEV)</h3>
 
-<img align="right" width="400" alt="code" src=""> 
+<img align="right" width="400" alt="code" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailtaher21&label=Profile%20views&color=0e75b6&style=flat" alt="ismailtaher21" /> </p>
 
