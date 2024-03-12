@@ -1,4 +1,4 @@
-<!-->![logo](https://github.com/ismailtaher21/ismailtaher21/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.gif)
+<!--![logo](https://github.com/ismailtaher21/ismailtaher21/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.gif) -->
 
 <h1 align="center">Hi 👋, I'm Ismail Mohammed Taher</h1>
 <h3 align="center">A Software Developer From London....(MERN DEV)</h3>
