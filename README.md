@@ -47,6 +47,114 @@
 
 <br/>
 
+
+
+<!--
+<hr/>
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+ <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://susakovich.dev">
+            <img src="images/gif1.gif" width="100%" alt="Portfolio App"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://susakovich.dev" target="_blank">
+    <img src="https://user-images.githubusercontent.com/95968602/221558661-5f1c8b48-f914-4cdb-8ed9-59ece969dec1.gif"/>
+  </a>  
+  <a href="https://github.com/susakovich/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <a href="https://susakovich.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=html5&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - Overall, the website was made using a combination of these front-end technologies, with the aim of creating a clean and user-friendly platform to showcase the owner's work and attract potential employers or clients.
+
+</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Dungeons & Dragons API</h3>
+        <br />
+        <br />
+      <a target="_blank" href="https://susakovich.github.io/ddAPI/">
+            <img src="https://user-images.githubusercontent.com/95968602/221560661-979130c3-17ff-44b8-baf0-a93c999571ef.gif"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/susakovich/ddAPI" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://susakovich.github.io/ddAPI/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=html5&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - D&D Spell API: Retrieve spell details (description, level, magic school, available classes/subclasses) by spell name.
+
+
+
+
+
+</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">NASA API</h3>
+      <br />
+       <a href="https://susakovich.github.io/nasaAPI" target="_blank">
+            <img src="https://user-images.githubusercontent.com/95968602/231397158-25465034-b04c-4eb3-be11-c9faa63f3714.gif" width="100%" alt"Nasa">
+        </a>
+      <br />
+    <p align="center">
+  <a href="https://github.com/susakovich/nasaAPI" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://susakovich.github.io/nasaAPI/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - My NASA API project allows users to input a specific date, and then generates an image, name, and description associated with that day. By utilizing NASA's API, I am able to pull relevant information and images from their extensive database of space-related content.
+
+</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Calculator</h3>
+        <br />
+        <a target="_blank" href="https://github.com/susakovich/100devs-calculator/tree/main">
+          <img src="https://user-images.githubusercontent.com/95968602/222171721-14eb0304-6bbf-4d84-bff4-e08a516f0700.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/susakovich/100devs-calculator/tree/main" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://susakovich.github.io/100devs-calculator/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This project is a simple calculator built using JavaScript, HTML, and CSS, which allows the user to perform basic arithmetic operations as well as advanced operations like finding the square and cube of a number.
+
+
+
+</p>
+    </td>
+  </tr>
+</table>
+
+
+
+-->
+
 <hr/>
 
 <div align="center">
@@ -65,7 +173,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ismailtaher21&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ismailtaher21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ismailtaher21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ismailtaher21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
