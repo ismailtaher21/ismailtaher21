@@ -1,7 +1,83 @@
 <!--![logo](https://github.com/ismailtaher21/ismailtaher21/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.gif) -->
 
-<h1 align="center">Hi 👋, I'm Ismail Mohammed Taher</h1>
-<h3 align="center">A Software Developer From London....(MERN DEV)</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ismailtaher21.ismailtaher21" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mohammed+Ismail!;" />
+</h1>
+
+<h3 align="center">I am a Software Developer From London who codes in javascript and my tech-stack is MERN</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a Ecom-app**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ismailtaher21@/ismailtaher21@/issues)**
+
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ismailtaher21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ismailtaher98" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+    <a href="https://twitter.com/in/ismailtaher21" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,nextjs,mysql" /><br>
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ismailtaher21&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ismailtaher21&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ismailtaher21&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br>
+
+
+<!--
 
 <img align="right" width="400" alt="code" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> 
 
@@ -23,3 +99,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismailtaher21&show_icons=true&locale=en" alt="ismailtaher21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailtaher21&" alt="ismailtaher21" /></p>
+
+-->
